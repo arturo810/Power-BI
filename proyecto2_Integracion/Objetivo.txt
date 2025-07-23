@@ -1,0 +1,19 @@
+Objetivo general
+Realizar una integración de las fuentes de datos proporcionadas que nos resuma información clave por medio de mapas y gráficos interactivos en dos reportes:
+
+Reporte 1: Población por país y continente
+
+Reporte 2: Indicadores mundiales de Esperanza de vida y Mortalidad Infantil
+
+Requerimientos de análisis
+Poder analizar por las siguientes categorías:
+
+Grupos de Continente
+
+Grupos de Población (de mayor a menor cantidad de población)
+
+Grupos de Esperanza de vida (de mayor a menor Esperanza de vida)
+
+Grupos de Mortalidad Infantil (de mayor a menor Mortalidad Infantil)
+
+Relación entre Esperanza de vida y Mortalidad Infantil
